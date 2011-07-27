@@ -26,3 +26,5 @@ Combo.prototype = {
     }
   }
 };
+
+module.exports.Combo = Combo;
