@@ -1,3 +1,8 @@
+/*
+ * taken from http://howtonode.org/control-flow
+ * By creationix https://github.com/creationix
+ */
+
 function Combo(callback) {
   this.callback = callback;
   this.items = 0;
