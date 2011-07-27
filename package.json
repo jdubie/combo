@@ -1,0 +1,9 @@
+{
+  "name"          : "combo",
+  "description"   : "callback management",
+  "url"           : "https://github.com/jdubie/combo",
+  "author"        : "Creationix",
+  "version"       : "0.0.1",
+  "main"          : "index.js",
+  "engines"       : { "node": ">=0.3.6" }
+}
